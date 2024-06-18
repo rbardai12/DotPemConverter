@@ -1,0 +1,3 @@
+Copy and Paste the following line into the CMD window:
+
+x509 -inform DER -outform PEM -in "C:\Users\rahim\Desktop\sample.crt.crt" -out "C:\Users\rahim\Desktop\sample.crt.pem"
