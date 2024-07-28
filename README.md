@@ -1,6 +1,6 @@
 # DotPemConverter
 
-# Usage:
+# Information:
 The DotPemConverter takes in a certificate file and converts it into a .PEM format. Certificate files require a certain encoiding to convert. This program is an interactive method for the user to select their certificate and convert it. The tool provides instructions as well. The following certificates are accepted: 
 .crt, .cer, .p12, .p7b, .pfx. The program will be able to run up to three chunks of certificate layering within one file.  
 
